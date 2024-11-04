@@ -29,7 +29,3 @@ class Heroes {
 
 }
 
-//Exemplo 1
-
-const heroi = new Heroes('Bison', 100, 'mago');
-heroi.atacar();
